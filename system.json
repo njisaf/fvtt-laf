@@ -2,11 +2,11 @@
   "name": "laf",
   "title": "Lasers & Feelings",
   "description": "An implementation of the adaptable one-page Lasers & Feelings system by John Harper.",
-  "version": "1.5",
+  "version": "2.0",
   "minimumCoreVersion": "0.8",
-  "compatibleCoreVersion": "9",
+  "compatibleCoreVersion": "10",
   "templateVersion": 2,
-  "author": "Parker S.",
+  "author": "Nassir I.",
   "packs": [
     {
       "name": "create-a-space-adventure",
